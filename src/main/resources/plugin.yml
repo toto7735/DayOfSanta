@@ -1,0 +1,11 @@
+name: DayOfSanta
+version: 1.0
+author: toto7735
+main: christmas.Main
+commands:
+  stopmusic:
+    aliases: [sm]
+  addblocks:
+    aliases: [ab]
+  moneyeffects:
+api-version: 1.19
