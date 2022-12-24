@@ -1,6 +1,6 @@
 # DayOfSanta
 
-Plugin used in {Comming Soon} made by toto7735 with ❤
+Plugin used in [This Video]({Comming Soon}) and [This Server](https://github.com/toto7735/DayOfSanta-Server) made by toto7735 with ❤
 
 **Minecraft Version: 1.19.2**
 
